@@ -1,0 +1,19 @@
+git init
+
+git status
+
+git add <filename>
+
+git rm --cached <file name>
+
+git commit -m <messag>
+
+git restore commands.txt
+
+git log 
+
+git log --oneline
+
+git config --global user.name "Manoj Mathai"
+
+git config --global user.email "mmathai@gmail.com"
