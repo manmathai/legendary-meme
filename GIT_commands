@@ -19,3 +19,5 @@ git config --global user.name "Manoj Mathai"
 git config --global user.email "mmathai@gmail.com"
 
 git pull
+
+git fetch
